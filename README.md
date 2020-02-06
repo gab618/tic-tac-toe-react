@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## ReactJS tutorial
 
-Minha implementação do [https://pt-br.reactjs.org/tutorial/tutorial.html](tutorial oficial do ReactJS)
+Minha implementação do [tutorial oficial do ReactJS](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
 ### Desafios
 
